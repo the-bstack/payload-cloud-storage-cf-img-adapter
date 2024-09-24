@@ -1,5 +1,5 @@
 {
-  "name": "payload-cloud-storage-cf-img-adapter-3-beta",
+  "name": "@bstack/payload-3-beta-cloud-storage-cf-img-adapter",
   "version": "1.0.4-beta",
   "homepage:": "https://payloadcms.com",
   "repository": "git@github.com:rymate1234/payload-cloud-storage-cf-img-adapter.git",
